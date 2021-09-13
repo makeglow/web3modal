@@ -2,9 +2,9 @@
 node_modules
 
 # ignore transpiled files
-dist
 lib
 
+.idea
 .env
 
 #misc
